@@ -1,2 +1,3 @@
-# whatsapp-nextjs
-A simple whatsapp with Next.JS
+# Whatsapp Next.JS
+
+A simple Whatsapp clone with Next.JS
